@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Anime-Amateur/static/css/main.3f83d347.css",
+    "main.js": "/Anime-Amateur/static/js/main.7e3bd274.js",
+    "index.html": "/Anime-Amateur/index.html",
+    "main.3f83d347.css.map": "/Anime-Amateur/static/css/main.3f83d347.css.map",
+    "main.7e3bd274.js.map": "/Anime-Amateur/static/js/main.7e3bd274.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3f83d347.css",
+    "static/js/main.7e3bd274.js"
+  ]
+}
